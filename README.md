@@ -1,6 +1,7 @@
 # jsonapp
 
 A new Flutter project.
+Jsonapp is very simple application. In this application fetch the data from Json file which store and create in local storage. so, Easily Access the data. JsonApp is a flutter project which is made in dart language.  
 
 ## Getting Started
 
